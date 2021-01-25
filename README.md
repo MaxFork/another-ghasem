@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-💬 My name is: **Ghasem Ramezani** (*قاسم رمضانی*), and I am a Junior Software Engineer at [Arad Co](http://aradtechs.com/).  
+💬 My name is: **Ghasem Ramezani** (in persian: *قاسم رمضانی*), and I am a Junior Software Engineer at [Arad Co](http://aradtechs.com/).  
 📫 My Telegram ID is: @MG_Ramezani
 
 <!--
