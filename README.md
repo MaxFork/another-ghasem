@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 💬 My name is: **Ghasem Ramezani** (<sub>in persian:</sub> *قاسم رمضانی*), and I am a Junior Software Engineer at [Arad Co](http://aradtechs.com/).  
-📫 My Telegram ID is: @MG_Ramezani
+📫 My Telegram ID is: @another_ghasem
 
 <!--
 **mg-ramezani/mg-ramezani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
